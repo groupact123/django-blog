@@ -1,0 +1,5 @@
+venv/
+_psycache_/
+*.psyc
+db.sqlite3
+.env
